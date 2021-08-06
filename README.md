@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ljoonal
 - 👀 I’m a privacy enthusiast, software developer, and hobbyist SysAdmin
-- 🌱 I’m currently learning Rustlang
+- 🌱 I’m currently learning Rustlang & game modding
 - 💞️ I’m looking to collaborate on interesting projects written in Rust
 - 📫 I can be reached via any of the methods listed on https://ljoonal.xyz/contact
