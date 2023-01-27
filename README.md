@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @ljoonal, a security & privacy enthusiast, software developer, and hobbyist SysAdmin
-- 🌱 I’m currently learning Rustlang & game modding.
+- 🌱 I'm working on FOSS Rust projects.
+- 🛬 At work I use TypeScript and Angular.
 - 📫 I can be reached via any of the methods listed on https://ljoonal.xyz/contact
